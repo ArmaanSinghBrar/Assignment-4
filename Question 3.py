@@ -1,3 +1,4 @@
+#Multiplication game for children
 import random
 list_1 = [1,2,3,4,5,6,7,8,9,10]
 list_2 = [1,2,3,4,5,6,7,8,9,10]
