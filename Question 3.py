@@ -3,8 +3,8 @@ import random
 list_1 = [1,2,3,4,5,6,7,8,9,10]
 list_2 = [1,2,3,4,5,6,7,8,9,10]
 i=1
-while i<11:
-    a = random.choice(list_1)
+while i<11:                     #Running a loop 10 times
+    a = random.choice(list_1)   #Randomly choosing a number from the list
     b = random.choice(list_2)
     c = a*b
     d=float(input(f"\nQuestion{i}: {a}×{b} ="))
